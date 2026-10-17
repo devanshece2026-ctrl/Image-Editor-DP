@@ -25,7 +25,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 🌟 2. हेडर सेक्शन
-st.markdown("<h1 style='text-align: center; color: #ff4b4b;'>🎨 PixelCraft Studio</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #ff4b4b;'>🎨 Lalla Bhaiya Image Editor</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: #888cbd; font-size: 18px;'>The Ultimate Interactive Web Image Editor</p>", unsafe_allow_html=True)
 st.markdown("---")
 
